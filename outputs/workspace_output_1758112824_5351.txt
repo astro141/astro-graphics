@@ -1,0 +1,13 @@
+total 232
+drwxr-xr-x 2 root root  4096 Sep 17 12:37 .
+drwxr-xr-x 4 root root  4096 Sep 17 12:37 ..
+-rw-r--r-- 1 root root   990 Sep 17 12:36 software-aftereffects.html
+-rw-r--r-- 1 root root 40242 Sep 17 12:37 software-aftereffects.png
+-rw-r--r-- 1 root root   988 Sep 17 12:35 software-illustrator.html
+-rw-r--r-- 1 root root 40242 Sep 17 12:37 software-illustrator.png
+-rw-r--r-- 1 root root   985 Sep 17 12:36 software-indesign.html
+-rw-r--r-- 1 root root 40242 Sep 17 12:37 software-indesign.png
+-rw-r--r-- 1 root root   986 Sep 17 12:35 software-photoshop.html
+-rw-r--r-- 1 root root 40242 Sep 17 12:37 software-photoshop.png
+-rw-r--r-- 1 root root   989 Sep 17 12:36 software-premiere.html
+-rw-r--r-- 1 root root 40242 Sep 17 12:37 software-premiere.png

@@ -1,0 +1,8 @@
+total 9520
+drwxr-xr-x 2 root root     175 Sep 17 12:28 .
+drwxr-xr-x 5 root root     136 Sep 17 12:27 ..
+-rw-r--r-- 1 root root 1740079 Sep 17 12:28 portfolio_sample1.jpg
+-rw-r--r-- 1 root root  534360 Sep 17 12:28 portfolio_sample2.jpg
+-rw-r--r-- 1 root root 5799034 Sep 17 12:28 portfolio_sample3.jpg
+-rw-r--r-- 1 root root 1077261 Sep 17 12:28 portfolio_sample4.jpg
+-rw-r--r-- 1 root root  587106 Sep 17 12:28 portfolio_sample5.jpg
